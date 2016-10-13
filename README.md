@@ -1,5 +1,6 @@
 # GigHub
-GigHub Project Pluralsight
+GigHub Project Pluralsight 
+(Currently under construction!!)
 
 GigHub is a mini social network that makes it really easy
 for live music lovers to track the gigs of their favorite
